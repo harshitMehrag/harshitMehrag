@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harshitMehrag
-- 👀 I’m interested in Data Analytics and Data Sciences
-- 🌱 I’m currently learning Artificial Intelligence Basics.
+- 👀 I’m interested in Data Engineering, Cloud Full Stack, GenAI
+- 🌱 I’m currently learning DevOps.
 - 💞️ I’m looking to collaborate on Python and R programming.
 - 📫 How to reach me - harshitmehrag@gmail.com
 
