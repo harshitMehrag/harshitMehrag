@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harshitMehrag
 - 👀 I’m interested in Data Engineering, Cloud Full Stack, GenAI
-- 🌱 I’m currently learning DevOps.
-- 💞️ I’m looking to collaborate on Python and R programming.
+- 🌱 I’m currently learning Agentic AI.
+- 💞️ I’m looking to collaborate on Snowflake and GenAI.
 - 📫 How to reach me - harshitmehrag@gmail.com
 
 <!---
